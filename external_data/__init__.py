@@ -1,0 +1,1 @@
+URL_PRICEDOTCOM = "https://www.price.com.hk/search.php?g=A&q="
