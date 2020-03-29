@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-# test
+# test2
 from external_data.crawler2 import WebCrawler
 if __name__ == "__main__":
     # r = requests.get("https://www.price.com.hk/category.php?c=100008")
